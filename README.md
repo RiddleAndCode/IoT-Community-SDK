@@ -6,7 +6,7 @@ The goal of this sample code is to show how to easily set up bitcoin key creatio
 A step-by-step guideline will guide through the set up process for the board and the Arduino IDE. 
 Thereafter, a short sample shows what can be achieved on that very board easily.
 
-Connecting the Secure Element 2.0 to the NRF:
+## Connecting the Secure Element 2.0 to the NRF:
 
 ![nrf](assets/nrf-dev-board.png)
 
