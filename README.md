@@ -8,7 +8,7 @@ Thereafter, a short sample shows what can be achieved on that very board easily.
 
 Connecting the Secure Element 2.0 to the NRF:
 
-![nrf][assets/nrf-dev-board.png]
+![nrf](assets/nrf-dev-board.png)
 
 ## Set up the board
 
